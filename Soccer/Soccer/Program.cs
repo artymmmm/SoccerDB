@@ -17,6 +17,7 @@ namespace Soccer
                 foreach (var player in p)
                 {
                     Console.WriteLine("{0} - {1}", player.Name, player.Team.Name);
+                    Console.WriteLine("nothing new");
                 }
             }
                 }
