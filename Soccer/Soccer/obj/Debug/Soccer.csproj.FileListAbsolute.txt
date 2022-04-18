@@ -1,0 +1,10 @@
+c:\users\артём\documents\visual studio 2013\Projects\Soccer\Soccer\bin\Debug\Soccer.exe.config
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\Soccer\Soccer\obj\Debug\Soccer.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\Soccer\Soccer\bin\Debug\Soccer.exe
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\Soccer\Soccer\bin\Debug\Soccer.pdb
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\Soccer\Soccer\bin\Debug\EntityFramework.dll
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\Soccer\Soccer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\Soccer\Soccer\bin\Debug\EntityFramework.xml
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\Soccer\Soccer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\Soccer\Soccer\obj\Debug\Soccer.exe
+C:\Users\Артём\Documents\Visual Studio 2013\Projects\Soccer\Soccer\obj\Debug\Soccer.pdb
